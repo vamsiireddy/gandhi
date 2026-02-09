@@ -1,21 +1,21 @@
-rahul is very bad boy
-kojja
+print("Welcome to the Python Program")
+print("-----------------------------")
 
-1
-2
+name = "Jenkins User"
+age = 25
+city = "Hyderabad"
 
-3
+print("Getting user details...")
+print("Name:", name)
+print("Age:", age)
+print("City:", city)
 
-243
-5
-4t
-g
-fb
-db
-e
-yh
-ty
-eh
-x
-hdg
-heth
+print("Processing information...")
+print("Hello", name)
+print("You are", age, "years old")
+print("You live in", city)
+
+print("Program is running successfully")
+print("End of the program")
+print("Thank you for using Python!")
+
